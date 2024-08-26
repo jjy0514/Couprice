@@ -1,6 +1,6 @@
 This file is examples for using git bash
 
-To create a nes repository
+To create a new repository
 $ git init
 $ git add README.md
 $ git commit -m "first commit"
